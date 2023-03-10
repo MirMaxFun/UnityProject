@@ -7,4 +7,5 @@ void OnNetworkInstantiate(NetworkMessageInfo info)
 {
     int x;
     bool tf;
+    bool ft2;
 }
