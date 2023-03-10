@@ -6,4 +6,5 @@
 void OnNetworkInstantiate(NetworkMessageInfo info)
 {
     int x;
+    bool tf;
 }
