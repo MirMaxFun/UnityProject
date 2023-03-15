@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/User/Desktop/UnityProject/UnityProject/MyProject23/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/User/Desktop/UnityProject/UnityProject/MyProject23/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/Desktop/UnityProject/UnityProject/MyProject23/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/User/Desktop/UnityProject/UnityProject/MyProject23/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4M/AKHITQ73ZCT9B9W3RCR04B.uasset",
+				"C:/Users/User/Desktop/UnityProject/UnityProject/MyProject23/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/S2/6LH55HUIAGCI3DCXS6FAZ5.uasset"
 			]
 		}
 	]
