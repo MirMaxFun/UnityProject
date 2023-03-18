@@ -1,0 +1,6 @@
+2023/03/18-11:28:23.598 4e0 Creating DB D:/UnityProject/UnityProject/HakatoonProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/18-11:28:23.702 4e0 Reusing MANIFEST D:/UnityProject/UnityProject/HakatoonProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/18-11:48:31.232 1e4c Level-0 table #5: started
+2023/03/18-11:48:31.331 1e4c Level-0 table #5: 7357 bytes OK
+2023/03/18-11:48:31.332 1e4c Delete type=0 #3
+2023/03/18-11:48:31.365 1e4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
