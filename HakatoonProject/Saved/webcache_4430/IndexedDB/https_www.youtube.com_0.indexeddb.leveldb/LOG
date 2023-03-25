@@ -1,6 +1,15 @@
-2023/03/18-11:28:23.598 4e0 Creating DB D:/UnityProject/UnityProject/HakatoonProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/03/18-11:28:23.702 4e0 Reusing MANIFEST D:/UnityProject/UnityProject/HakatoonProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/18-11:48:31.232 1e4c Level-0 table #5: started
-2023/03/18-11:48:31.331 1e4c Level-0 table #5: 7357 bytes OK
-2023/03/18-11:48:31.332 1e4c Delete type=0 #3
-2023/03/18-11:48:31.365 1e4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/25-09:50:17.303 4080 Reusing MANIFEST D:/UnityProject/UnityProject/HakatoonProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/25-09:50:17.303 4080 Recovering log #11
+2023/03/25-09:50:17.304 4080 Reusing old log D:/UnityProject/UnityProject/HakatoonProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2023/03/25-09:52:44.807 384 Level-0 table #16: started
+2023/03/25-09:52:44.811 384 Level-0 table #16: 8910 bytes OK
+2023/03/25-09:52:44.850 384 Delete type=0 #11
+2023/03/25-09:52:44.851 384 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/25-09:52:44.851 384 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0a\x12uqxB\x00\x03\x00\x00\x00\x00\x00\x00"@' @ 427 : 1
+2023/03/25-09:52:44.852 384 Compacting 1@1 + 1@2 files
+2023/03/25-09:52:44.865 384 Generated table #17@1: 41 keys, 2422 bytes
+2023/03/25-09:52:44.865 384 Compacted 1@1 + 1@2 files => 2422 bytes
+2023/03/25-09:52:44.865 384 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/25-09:52:44.866 384 Delete type=2 #13
+2023/03/25-09:52:44.866 384 Delete type=2 #16
+2023/03/25-09:52:44.867 384 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0a\x12uqxB\x00\x03\x00\x00\x00\x00\x00\x00"@' @ 427 : 1 .. (end); will stop at (end)
